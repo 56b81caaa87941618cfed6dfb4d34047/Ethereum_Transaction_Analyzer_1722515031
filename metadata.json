@@ -4,5 +4,6 @@
     "project_description": "add an app to analyse new ethereum transactions",
     "creation_time": "2024-08-01 17:53:51.087242",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The image showcases a cosmic landscape with a dominant color scheme of pink and purple hues, blending a surreal and otherworldly style with vibrant, glowing accents in a fantastical, dreamlike setting."
 }
